@@ -3,7 +3,7 @@ module github.com/quiq/docker-registry-ui
 require (
 	github.com/CloudyKit/fastprinter v0.0.0-20170127035650-74b38d55f37a // indirect
 	github.com/CloudyKit/jet v2.1.2+incompatible
-	github.com/aws/aws-sdk-go v1.25.9
+	github.com/aws/aws-sdk-go v1.35.13
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible // indirect
 	github.com/elazarl/goproxy v0.0.0-20181111060418-2ce16c963a8a // indirect
 	github.com/go-sql-driver/mysql v1.4.1
@@ -19,7 +19,6 @@ require (
 	github.com/mattn/go-sqlite3 v1.10.0
 	github.com/moul/http2curl v1.0.0 // indirect
 	github.com/parnurzeal/gorequest v0.2.15
-	github.com/pkg/errors v0.0.0-20180311214515-816c9085562c // indirect
 	github.com/robfig/cron v0.0.0-20180505203441-b41be1df6967
 	github.com/smartystreets/goconvey v0.0.0-20190710185942-9d28bd7c0945
 	github.com/stretchr/testify v1.3.0 // indirect
@@ -29,5 +28,5 @@ require (
 	github.com/valyala/fasttemplate v0.0.0-20170224212429-dcecefd839c4 // indirect
 	google.golang.org/appengine v1.3.0 // indirect
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
-	gopkg.in/yaml.v2 v2.2.2
+	gopkg.in/yaml.v2 v2.2.8
 )
