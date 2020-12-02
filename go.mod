@@ -22,8 +22,7 @@ require (
 	github.com/robfig/cron v0.0.0-20180505203441-b41be1df6967
 	github.com/smartystreets/goconvey v0.0.0-20190710185942-9d28bd7c0945
 	github.com/stretchr/testify v1.3.0 // indirect
-	github.com/tidwall/gjson v1.1.3
-	github.com/tidwall/match v1.0.1 // indirect
+	github.com/tidwall/gjson v1.6.3
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/valyala/fasttemplate v0.0.0-20170224212429-dcecefd839c4 // indirect
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
