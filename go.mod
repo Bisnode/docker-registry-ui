@@ -16,7 +16,7 @@ require (
 	github.com/labstack/gommon v0.2.8 // indirect
 	github.com/mattn/go-colorable v0.1.0 // indirect
 	github.com/mattn/go-isatty v0.0.4 // indirect
-	github.com/mattn/go-sqlite3 v1.14.6
+	github.com/mattn/go-sqlite3 v1.14.8
 	github.com/parnurzeal/gorequest v0.2.16
 	github.com/robfig/cron v0.0.0-20180505203441-b41be1df6967
 	github.com/smartystreets/goconvey v0.0.0-20190710185942-9d28bd7c0945
